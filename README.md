@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://github.com/mkboris/Loopstudios-landing-page)
+- [Live Site](https://mkboris.github.io/Loopstudios-landing-page/)
 
 ### Built with
 
