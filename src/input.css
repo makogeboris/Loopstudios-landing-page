@@ -19,7 +19,7 @@
 }
 
 .item {
-  @apply relative overflow-hidden md:w-1/4;
+  @apply relative overflow-hidden md:w-1/4 cursor-pointer;
 }
 
 .item-gradient {

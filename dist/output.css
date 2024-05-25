@@ -988,6 +988,7 @@ h5 {
 
 .item {
   position: relative;
+  cursor: pointer;
   overflow: hidden;
 }
 
