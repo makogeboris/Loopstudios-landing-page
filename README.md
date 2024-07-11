@@ -29,12 +29,11 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- Tailwind CSS
+- **Semantic HTML5 markup** - Structured the content of the web page using meaningful and descriptive tags.
+- **Tailwind CSS** - Utilized a utility-first CSS framework for rapid UI development.
+- **Flexbox** - Used for aligning and distributing space among items in a container.
+- **CSS Grid** - Employed for creating complex layouts with a grid-based design.
+- **Mobile-first workflow** - Ensured the design and development prioritized mobile user experience.
 
 ## Author
 
