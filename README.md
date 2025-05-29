@@ -24,7 +24,6 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/mkboris/Loopstudios-landing-page)
 - [Live Site](https://makogeboris.github.io/Loopstudios-landing-page/)
 
 ### Built with
